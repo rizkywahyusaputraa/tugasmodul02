@@ -19,4 +19,7 @@ int main(){
 	cout<<"biaya parket (Rp) : "<<bp<<endl;
 	bpp=lr*20;
 	
+	cout<<"biaya pasang(Rp) :"<<bpp<<endl;
+	tb=bp+bpp;
+	
 }
