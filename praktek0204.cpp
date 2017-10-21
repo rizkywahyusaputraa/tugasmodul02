@@ -8,4 +8,8 @@ int main(){
 	cout<<""<<endl;
 	cout<<""<<endl;
 	
+	cout<<"Luas Rumah : "<<lr;cout<<" m2 "<<endl;
+	cout<<"Luas 1 Box Parket : "<<p;cout<<" m2 "<<endl;
+	a=p*jbp;
+	
 }
