@@ -22,4 +22,6 @@ int main(){
 	cout<<"biaya pasang(Rp) :"<<bpp<<endl;
 	tb=bp+bpp;
 	
+	cout<<"total biaya (Rp) : "<<tb<<endl;
+	
 }
