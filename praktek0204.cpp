@@ -16,5 +16,7 @@ int main(){
 	cout<<"jumlah box parket :"<<jbph<<endl;
 	bp=jbph*500;
 	
+	cout<<"biaya parket (Rp) : "<<bp<<endl;
+	bpp=lr*20;
 	
 }
